@@ -19,7 +19,7 @@
 }
 
 .title {
-    margin: 2px 0px 2px 3px;
+    margin: 2px 2px 2px 3px;
     font-size: 1.2em;
 }
 
@@ -65,6 +65,7 @@
 
 .listStyle{
     margin-top: 0px;
+    color: rgb(150, 150, 150);
 }
 
 .textStyle {
