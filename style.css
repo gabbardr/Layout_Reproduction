@@ -97,3 +97,7 @@
     display: inline-block;
     margin-right: 5px;
 }
+
+.listStyle.listTwo {
+    margin-top: -5px;
+}
