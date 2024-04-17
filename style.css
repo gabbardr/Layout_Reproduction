@@ -89,6 +89,6 @@
     width: 0;
     height: 0;
     border-style: solid;
-    border-width: 10px 10px 10px 0;
+    border-width: 0px 10px 10px 10;
     border-color: transparent rgb(150, 150, 150) transparent transparent;
 }
