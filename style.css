@@ -32,6 +32,15 @@
     width: 10%;
 }
 
+.container2 {
+    float: left;
+    width: 20%;
+}
+
+.container3 {
+    float: right;
+}
+
 .headerBackground:after {
     content: "";
     clear: both;
@@ -39,7 +48,6 @@
 }
 
 .log {
-    float: right;
     margin: 2px 5px 2px 0px;
 }
 
