@@ -3,7 +3,7 @@
 }
 
 .headerBackground {
-    background-color: orange;
+    background-color: darkorange;
     width: 100%;
     display: inline-block;
 }
@@ -24,21 +24,25 @@
 
 .container {
     float: left;
-    width: 10%;
+    width: 5%;
+    text-align: center;
 }
 
 .container1 {
     float: left;
-    width: 10%;
+    width: 5%;
+    text-align: center;
 }
 
 .container2 {
     float: left;
     width: 20%;
+    text-align: center;
 }
 
 .container3 {
     float: right;
+    text-align: center;
 }
 
 .headerBackground:after {
