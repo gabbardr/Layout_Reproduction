@@ -5,6 +5,7 @@
 .headerBackground {
     background-color: orange;
     width: 100%;
+    display: inline-block;
 }
 
 .symbol {
@@ -13,5 +14,5 @@
     border-color: white;
     color: white;
     font-size: 1.2em;
-    display: inline-block;
+    float: left;
 }
