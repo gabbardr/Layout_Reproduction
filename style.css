@@ -89,7 +89,10 @@
     width: 0;
     height: 0;
     border-style: solid;
-    border-left: 5px solid transparent;
-    border-right: 5px solid transparent;
-    border-bottom: 5px solid transparent;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 11px solid transparent;
+    border-bottom: 11px solid rgb(150, 150, 150);
+    display: inline-block;
+    margin-right: 5px;
 }
