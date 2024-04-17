@@ -85,10 +85,11 @@
     color: black;
 }
 
-li.triangle::before {
+.triangle {
     width: 0;
     height: 0;
     border-style: solid;
-    border-width: 0 10px 10px 10px;
-    border-color: transparent rgb(150, 150, 150) transparent transparent;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid transparent;
 }
