@@ -67,12 +67,12 @@
 }
 
 .textStyle {
-    color: lightgray;
+    color: rgb(175, 175, 175);
     font-size: 1em;
 }
 
 .textStyleP {
-    color: lightgray;
+    color: rgb(175, 175, 175);
     margin-top: 0px;
     margin-left: 5px;
     font-size: 1em;
