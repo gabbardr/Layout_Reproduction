@@ -85,7 +85,7 @@
     color: black;
 }
 
-li.listHeader::before {
+li.marker::after {
     content: "";
     position: absolute;
     border-left: 5px solid;
