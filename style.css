@@ -1,5 +1,5 @@
 .secondBody {
-    margin: 5px 80px 0 80px;
+    margin: 5px 100px 0 100px;
 }
 
 .headerBackground {
@@ -60,6 +60,7 @@
 
 .bodyBackground {
     background-color: rgb(228, 204, 174);
+    margin-top: -4px;
 }
 
 .listStyle{
