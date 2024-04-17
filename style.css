@@ -59,5 +59,17 @@
 }
 
 .bodyBackground {
-    background-color: lightgray;
+    background-color: rgb(226, 193, 150);
+}
+
+.listStyle{
+    margin-top: 0px;
+}
+
+.textStyle {
+    color: lightgray;
+}
+
+.listHeader {
+    font-size: 1em;
 }
