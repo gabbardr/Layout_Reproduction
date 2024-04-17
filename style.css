@@ -85,7 +85,7 @@
     color: black;
 }
 
-ol.listStyle::before {
+ol.listStyle::after {
     content: "";
     position: absolute;
     border-left: 5px solid;
